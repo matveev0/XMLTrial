@@ -3,13 +3,16 @@
     <repository>
         <id>1</id>
         <FIO>Матвеев543</FIO>
+        <dateOfBirth>1997-01-01</dateOfBirth>
     </repository>
     <repository>
         <id>2</id>
         <FIO>Матвеев123</FIO>
+        <dateOfBirth>1997-01-01</dateOfBirth>
     </repository>
     <repository>
         <id>3</id>
         <FIO>Матвеев4</FIO>
+        <dateOfBirth>1997-01-01</dateOfBirth>
     </repository>
 </personRepository>
